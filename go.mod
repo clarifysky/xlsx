@@ -1,4 +1,4 @@
-module github.com/tealeg/v2
+module github.com/clarifysky/xlsx
 
 go 1.12
 
