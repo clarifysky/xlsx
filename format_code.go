@@ -538,6 +538,7 @@ func (fullFormat *parsedNumberFormat) parseTime(value string, date1904 bool) (st
 		{"mm", "01"},
 		{"am/pm", "pm"},
 		{"m/", "1/"},
+		{"m", "1"},
 		{"%%%%", "January"},
 		{"&&&&", "Monday"},
 	}
